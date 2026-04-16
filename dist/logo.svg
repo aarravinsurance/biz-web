@@ -1,0 +1,8 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="48" fill="#0A4EA3"/>
+  <path d="M120 48L181 80V129C181 162 155 192 120 204C85 192 59 162 59 129V80L120 48Z" fill="white" fill-opacity="0.16"/>
+  <path d="M120 63L167 88V127C167 153 148 177 120 187C92 177 73 153 73 127V88L120 63Z" fill="white"/>
+  <path d="M120 93L137 127H103L120 93Z" fill="#0A4EA3"/>
+  <rect x="114" y="127" width="12" height="28" rx="6" fill="#0A4EA3"/>
+  <text x="120" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="white">AARRAV</text>
+</svg>
